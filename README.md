@@ -1,91 +1,82 @@
-# 💫 Hi 👋, I'm Syed Mohi  
-### 🚀 Data Scientist || AI Developer || Cloud Enthusiast from India 🇮🇳  
+<h1 align="center">Hi, I'm Syed Mohi 👋</h1>
+<h3 align="center">Data Scientist · AI Developer · Building things that ship, not just notebooks that run</h3>
 
-📧 Email Me 👉 **syedmohi2003@gmail.com**  
-
----
-
-## 🚀 About Me
-- 🔭 I’m currently working on: **Medexa – AI-powered Healthcare Virtual Assistant**
-- 🌱 I’m currently learning: **Data Science, Machine Learning, Cloud & DevOps**
-- 👯 I’m looking to collaborate on: **AI & Data Science Projects**
-- 💬 Ask me about: **Python, Data Science, ML, AI**
-- 📫 Reach me at: **syedmohi2003@gmail.com**
-- ⚡ Fun fact: **I love solving real-world problems using AI 🤖**
+<p align="center">
+  <a href="https://www.syedmohi.engineer/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"></a>
+  <a href="https://linkedin.com/in/syed-mohi-475a0019a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:syedmohi2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://instagram.com/syed__mohi_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
+  <a href="https://x.com/@SyedMohi0o7"><img src="https://img.shields.io/badge/X-black?style=flat-square&logo=x&logoColor=white"></a>
+</p>
 
 ---
 
-## 🌐 Connect With Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/syed__mohi_) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-mohi-475a0019a) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@SyedMohi0o7)
+### 👋 About Me
+
+I'm a 2026 BE graduate in Computer Science & Data Science from Lords Institute of Engineering and Technology, Hyderabad. I build end-to-end AI/ML systems — from model to deployed product — and I'm currently looking for full-time Data Scientist / AI / ML Engineer roles.
+
+- 🔭 Currently building: **Medexa** — an AI-powered healthcare virtual assistant (live in production)
+- 🌱 Currently sharpening: cloud (Azure/AWS fundamentals), DAX/Power Query, and applied deep learning
+- 💼 Background: Data Analytics Intern @ Accenture · Data Analyst Intern @ Excelerate
+- 📝 Published research: 2 peer-reviewed papers (IJLTEMAS, IRJET)
+- 📫 Reach me: **syedmohi2003@gmail.com**
+- 🌐 Portfolio: **[syedmohi.engineer](https://www.syedmohi.engineer/)**
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
-- 🏥 **Medexa-v2**  
-  🔗 Live: https://medexa-v2.vercel.app  
-  🤖 AI-powered Healthcare Assistant with symptom analysis, recommendations & dashboard  
+| Project | What it does | Stack |
+|---|---|---|
+| 🏥 [**Medexa-v2**](https://medexa-v2.vercel.app) | AI healthcare assistant — symptom analysis, hospital lookup, recommendations dashboard | Next.js, TypeScript, Vercel |
+| 💳 **Credit Card Fraud Detection** | ML classifier for real-time fraud prediction on imbalanced transaction data | Python, Scikit-learn |
+| 📄 **PDF Summarizer** | RAG-based document Q&A and summarization tool | LangChain, FAISS |
+| 📊 **Financial Sentiment Analysis** | NLP sentiment engine over financial text with a visual dashboard | Python, NLP |
+| 📈 **BigMart Sales Prediction** | Regression pipeline for retail sales forecasting | Python, Pandas |
+| 🖥 **Weather GUI** | Desktop weather app | Python, Tkinter |
 
-- 💳 **Credit Card Fraud Detection**  
-  🔍 Machine Learning model for fraud prediction  
-
-- 📊 **Financial Sentiment Analysis**  
-  📈 NLP-based sentiment detection with dashboard  
-
-- 🌦 **Weather GUI**  
-  🖥 Python Tkinter-based weather app  
-
-- 📈 **BigMart Sales Prediction**  
-  📊 Regression model for sales forecasting  
+⭐ *Explore all repos below — happy to walk through the architecture of any of these.*
 
 ---
 
-## 💻 Tech Stack
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github)
+### 🧰 Tech Stack
+
+**Languages:** ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+
+**AI / ML:** ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square) ![Scikit--learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+**Web / App:** ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat-square&logo=fastapi) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+**Data / Cloud:** ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+**Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Syedmohi7&theme=tokyonight&show_icons=true&hide_border=true&cache_seconds=1800)
+### 📜 Certifications
 
-![](https://streak-stats.demolab.com?user=Syedmohi7&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Syedmohi7&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
----
-
-## 🧠 Profile Summary
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Syedmohi7&theme=tokyonight)
+- Generative AI Foundations — Microsoft / upGrad
+- Databricks SQL Analytics
+- AI & ML — NIT Warangal (CCE)
+- Power BI Crash Course — CoursePe
 
 ---
 
-## ✨ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Syedmohi7&theme=tokyonight&show_icons=true&hide_border=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syedmohi7&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Syedmohi7&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Syedmohi7&icon=5&color=6" />
+</p>
 
 ---
 
-## 👀 Profile Views
-![](https://visitcount.itsvg.in/api?id=Syedmohi7&icon=5&color=6)
-
----
-
-⭐️ *If you like my work, consider giving a star to my repositories!*
+<p align="center"><i>Open to Data Scientist / AI Engineer / ML Engineer roles — let's connect!</i></p>
