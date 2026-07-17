@@ -17,7 +17,6 @@ I'm a 2026 BE graduate in Computer Science & Data Science from Lords Institute o
 
 - 🔭 Currently building: **Medexa** — an AI-powered healthcare virtual assistant (live in production)
 - 🌱 Currently sharpening: cloud (Azure/AWS fundamentals), DAX/Power Query, and applied deep learning
-- 💼 Background: Data Analytics Intern @ Accenture · Data Analyst Intern @ Excelerate
 - 📝 Published research: 2 peer-reviewed papers (IJLTEMAS, IRJET)
 - 📫 Reach me: **syedmohi2003@gmail.com**
 - 🌐 Portfolio: **[syedmohi.engineer](https://www.syedmohi.engineer/)**
@@ -65,12 +64,16 @@ I'm a 2026 BE graduate in Computer Science & Data Science from Lords Institute o
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Syedmohi7&theme=tokyonight&show_icons=true&hide_border=true&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syedmohi7&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Syedmohi7&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&card_width=420" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syedmohi7&layout=compact&theme=radical&hide_border=true&card_width=420&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Syedmohi7&theme=tokyonight&hide_border=true" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=Syedmohi7&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Syedmohi7&theme=radical&hide_border=true&area=true" />
 </p>
 
 <p align="center">
